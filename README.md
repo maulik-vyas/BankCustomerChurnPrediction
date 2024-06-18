@@ -3,8 +3,8 @@
 Every bank wants to hold their customers for sustaining their business so the ABC Multinational bank. 
 
 About Dataset:
-This dataset is taken from Kaggle: https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data
-This dataset is for ABC Multistate bank with following columns:
+This dataset is taken from Kaggle: https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data.
+This dataset is for a Multistate bank with following columns:
 
 column name, usage in the project
 customer_id, unused variable.
