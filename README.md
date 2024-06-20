@@ -20,4 +20,4 @@ active_member, used as input.
 estimated_salary, used as input.
 churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
 
-Aim of the project is to Predict the Customer Churn for the Bank using Machine Learning algorithms. Since this is a binary classification problem, I used Random Forest Classifier, Decision Tree CLassifier, and Logistic Regression in the project. Random Forest CLassifier has the better accuracy so that algorithm has been used to fit and evaluate the dataset. Next, an app was created using streamlit to have a front-end local website where the user can input the values and check the prediction.
+Aim of the project is to Predict the Customer Churn for the Bank using Machine Learning algorithms. Since this is a binary classification problem, I used Random Forest Classifier, Decision Tree Classifier, and Logistic Regression in the project. Random Forest CLassifier has the better accuracy so that algorithm has been used to fit and evaluate the dataset. Next, an app was created using streamlit to have a front-end local website where the user can input the values and check the prediction.
